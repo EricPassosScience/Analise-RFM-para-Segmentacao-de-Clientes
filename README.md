@@ -26,3 +26,5 @@ O modelo RFM é baseado em três fatores quantitativos:
 A Análise RFM classifica numericamente um cliente em cada uma dessas três categorias, geralmente em uma escala de 1 a 5 (quanto maior o número, melhor o resultado). O “melhor” cliente receberá uma pontuação máxima em todas as categorias.
 
 De acordo com essas métricas, é possível segmentar osclientes em grupos para entender quais  deles  compram  muitas  coisas  com  frequência,  que  compram  poucas  coisas,  mas frequentemente, e que não compram nada há muito tempo. Exatamente isso que faremos neste Big Data na Prática. Primeiro vamos calcular o score RFM e então usar esses dados para fazer a segmentação usando Machine Learning com aprendizado não supervisionado.
+
+Fonte de Dados: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
