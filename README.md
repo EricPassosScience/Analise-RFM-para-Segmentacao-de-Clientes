@@ -25,6 +25,42 @@ O modelo RFM é baseado em três fatores quantitativos:
 
 A Análise RFM classifica numericamente um cliente em cada uma dessas três categorias, geralmente em uma escala de 1 a 5 (quanto maior o número, melhor o resultado). O “melhor” cliente receberá uma pontuação máxima em todas as categorias.
 
-De acordo com essas métricas, é possível segmentar osclientes em grupos para entender quais  deles  compram  muitas  coisas  com  frequência,  que  compram  poucas  coisas,  mas frequentemente, e que não compram nada há muito tempo. Exatamente isso que faremos neste Big Data na Prática. Primeiro vamos calcular o score RFM e então usar esses dados para fazer a segmentação usando Machine Learning com aprendizado não supervisionado.
+De acordo com essas métricas, é possível segmentar osclientes em grupos para entender quais  deles  compram  muitas  coisas  com  frequência,  que  compram  poucas  coisas,  mas frequentemente, e que não compram nada há muito tempo. Primeiro vamos calcular o score RFM e então usar esses dados para fazer a segmentação usando Machine Learning com aprendizado não supervisionado.
 
 Fonte de Dados: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
+
+
+ESPAÑHOL:
+Segmentación de Clientes basada en Analisis RFM (Recencia, Frecuencia y Valor Monetario).
+
+En este trabajo utilizaremos Machine Learning para la segmentación de clientes. Aunque la segmentación se puede hacer con los atributos del cliente (como la edad, el ingreso mensual o el estado civil), primero aplicaremos el Analisis RFM (Recencia, Frecuencia y Valor Monetario) y a partir de este análisis segmentaremos y agruparemos a los clientes por similitud, ayudando así a Marketing o Area de ventas para personalizar la experiencia de compra de los clientes.
+
+La segmentación de clientes es la división de los clientes y clientes potenciales de una empresa en grupos que tienen características y puntos débiles similares.
+
+Esta división contribuye a la creación de campañas de marketing y ventas dirigidas. La segmentación de clientes hace que la comunicación con clientes potenciales, prospectos y clientes sea más personalizada y eficiente.
+
+La segmentación de clientes consiste básicamente en separarlos en grupos más pequeños, utilizando puntos en común entre ellos.
+
+El objetivo de esto es ofrecer una comunicación más asertiva y personalizada a los clientes, mejorando su experiencia y brindándoles un valor relevante.
+
+La segmentación proporciona una forma sencilla de organizar y gestionar las relaciones con los clientes de una empresa. Este proceso tambien facilita la adaptación y personalización de los esfuerzos de marketing, ventas y posventa a las necesidades de grupos especificos. Esto ayuda a aumentar la lealtad de los clientes y las conversiones.
+
+RFM significa Recency, Frequency and Monetary Value e implica analizar datos transaccionales e identificar diferentes segmentos de clientes en función de su historial de conversión.
+
+RFM Analysis es una estrategia de marketing para analizar y estimar el valor de un cliente, basada en tres variables: Actualidad (¿con qué frecuencia el cliente realizó una compra?), Frecuencia (¿con qué frecuencia compra?) y Valor monetario (¿Cuánto gastar?) para predecir qué clientes tienen más probabilidades de realizar nuevas compras en el futuro.
+
+El modelo RFM se basa en tres factores cuantitativos:
+
+• Actualidad: Hace cuánto tiempo un cliente realizó una compra. En términos generales, la antigüedad indica cuánto tiempo hace que su cliente realizo una acción deseada (generalmente una compra).
+
+•Frecuencia: con qué frecuencia un cliente realiza una compra. La frecuencia indica cuántas veces el cliente repitió esta acción en un período de tiempo determinado.
+
+• Valor monetario: cuánto dinero gasta un cliente en compras. El valor monetario indica lo que vale ese cliente para el negocio de una empresa.
+
+RFM Analysis clasifica numéricamente a un cliente en cada una de estas tres categorías, generalmente en una escala de 1 a 5 (cuanto mayor sea el número, mejor será el resultado). El “mejor” cliente recibirá la máxima puntuación en todas las categorias.
+
+De acuerdo con estas metricas, es posible segmentar a los clientes en grupos para comprender quienes compran muchas cosas a menudo, quienes compran pocas cosas pero a menudo y quiénes no han comprado nada en mucho tiempo. Primero calcularemos el puntaje RFM y luego usaremos estos datos para hacer la segmentación usando Machine Learning con aprendizaje no supervisado.
+
+Fuente de datos: https://archive.ics.uci.edu/ml/datasets/Online+Retail+II
+
+
